@@ -2,5 +2,5 @@ registry: crpi-40txdcvqvc39rbwu.cn-qingdao.personal.cr.aliyuncs.com
 namespace: metaphy
 images_dir: /Users/peter/workspace2/docker_images_sync
 max_retries: 60
-retry_delay: 1
+retry_delay: 3
 first_delay: 30

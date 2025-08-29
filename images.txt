@@ -1,1 +1,1 @@
-bitnami/zookeeper:latest
+python:3.9

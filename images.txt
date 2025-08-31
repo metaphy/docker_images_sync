@@ -1,1 +1,1 @@
-bitnami/openjdk:17
+bitnami/zookeeper:3.9

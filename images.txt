@@ -1,1 +1,1 @@
-bitnami/openjdk:17-jdk-slim
+bitnami/openjdk:17

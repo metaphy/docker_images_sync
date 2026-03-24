@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+elasticsearch:8.13.4
